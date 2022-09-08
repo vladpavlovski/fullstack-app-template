@@ -1,5 +1,6 @@
 {
   "name": "fullstack-app-template",
+  "packageManager": "yarn@3.2.3",
   "version": "0.0.1",
   "private": true,
   "author": "Vlad Pavlovski",
